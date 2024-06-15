@@ -1,0 +1,5 @@
+RTX 4090 ~ GPU ~ Inno3D
+Ryzen 5 2600 ~ CPU ~ AMD
+H61-M ~ MOTHERBOARD ~ Asus
+CRUCIAL X140 ~ SSD ~ Crucial
+Ramsta DDR4 ~ RAM ~ Ramsta

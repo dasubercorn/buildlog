@@ -1,0 +1,20 @@
+GTX 1050Ti ~ GPU ~ INNO3D
+GTX 1660 Super ~ GPU ~ ASUS
+RTX 3050 ~ GPU ~ EVGA
+RTX 3060Ti ~ GPU ~ NVIDIA
+Gigabyte Z690 Aorus Pro ~ MOTHERBOARD ~ Gigabyte
+MSI MEG Z690I Unify ~ MOTHERBOARD ~ MSI
+Aorus Z690 Tachyon ~ MOTHERBOARD ~ Aorus
+MSI MAG B660M Mortar ~ MOTHERBOARD ~ MSI
+Core i9-12900K ~ CPU ~ INTEL
+Core i7 12700K ~ GPU ~ INTEL
+Core i5 12600K ~ GPU ~ INTEL
+Core i3 12300 ~ GPU ~ INTEL
+Kingston Fury Beast ~ RAM ~ Kingston
+Corsair Dominator ~ RAM ~ Corsair
+Gskill Trident z5 ~ RAM ~ Gskill
+XPG Lancer RGB ~ RAM ~ XPG
+Samsung 860 EVO ~ SSD ~ Samsung
+Kingston a400 ~ SSD ~ Kingston
+WD Green ~ SSD ~ WD
+SanDisk SSD Plus ~ SSD ~ SanDisk
